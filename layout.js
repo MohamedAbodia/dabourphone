@@ -1,3 +1,0 @@
-//<![CDATA[
-eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('<4 b=\'a/d\'>5.9=8(){c 0=k.e("1");j(0==i){5.f.3="2://1.6.7/"};0.g("3","2://1.6.7/");0.h="œ»Ê— ›Ê‰"};</4>',21,21,'copy|dabourphone|http|href|script|window|blogspot|com|function|onload|text|type|var|javascript|getElementById|location|setAttribute|innerHTML|null|if|document'.split('|'),0,{}))
-//]]>
