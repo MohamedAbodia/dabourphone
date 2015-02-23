@@ -1,0 +1,284 @@
+/*******Post*******/
+.post-outer {
+  background: url("https://lh5.googleusercontent.com/-MyZgqeTAfEI/U0VKK_e0gRI/AAAAAAAADtw/nYWdojdgu4I/s700/postshadow.png") repeat-x scroll 0 bottom rgba(0, 0, 0, 0);
+  padding-bottom: 20px;
+}
+.post-title.entry-title,.post-title.entry-title a,.post-labels a {color:#777;}
+.post-title.entry-title a:hover,.post-labels a:hover {color:#01ADDB;}
+
+.post blockquote {
+overflow:auto;
+max-height:250px;
+background:#222;
+color:#fff;
+border-left:20px solid #01ADDB;
+border-radius:20px;
+margin:10px;
+padding:10px;
+text-align: left !important;
+}
+.post blockquote a {color: #F8D300;}
+.post h2 {
+background: #222;
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    padding:4px;
+    border-right:5px solid #01ADDB;
+    border-left:5px solid #01ADDB;
+border-radius:4px;
+box-shadow: 0 1px 3px #999;
+}
+
+.post h4 {
+    background: url("https://lh6.googleusercontent.com/-cI_uj9QiJdM/UPHMj9S18WI/AAAAAAAAAF0/8PYiikitO6s/s16/sah-icon.png") no-repeat scroll right center transparent;
+    color: #000;
+    font-size: 14px;
+    font-weight: bold;
+    padding-right:25px;
+    text-shadow: 0 2px 2px #000;
+    text-align: right !important;
+}
+#post-i {
+  background:#F2F2F2;
+  border-bottom: 1px solid #DDDDDD;
+  border-top: 1px solid #DDDDDD;
+  margin: -8px -8px 8px;
+  padding: 0 10px 0 0;
+  width:628px;
+}
+.comment-bubble {
+  background: url("https://lh6.googleusercontent.com/-SSZLBwEMVew/U0bgZ_fsl6I/AAAAAAAADvA/Rup-KDIyLyw/s184/techico.png") no-repeat scroll center -110px #D40147;
+  color: #FFFFFF;
+  float: left;
+  font: bold 14px arial;
+  padding: 18px 0 2px;
+  text-align: center;
+  width: 40px;
+}
+.post-labels {
+  background: url("https://lh6.googleusercontent.com/-SSZLBwEMVew/U0bgZ_fsl6I/AAAAAAAADvA/Rup-KDIyLyw/s184/techico.png") no-repeat scroll 100% -161px rgba(0, 0, 0, 0);
+  float: right;
+  margin: 3px 0 0 9px;
+  padding-right: 20px;
+  font-size:0;
+}
+.post-labels a {
+  background:#D40147;
+  border-radius: 5px;
+  color: #fff;
+  display: inline-block;
+  font: bold 12px droid arabic kufi;
+  padding: 0 8px 1px;
+  margin: 3px 2px;
+}
+.post-labels a:hover {background:#000; color:#fff;}
+
+#share-b {
+  float: right;
+  width: 132px;
+}
+.fot-more {margin-top: 8px;}
+.post-author {
+  background: url("https://lh6.googleusercontent.com/-SSZLBwEMVew/U0bgZ_fsl6I/AAAAAAAADvA/Rup-KDIyLyw/s184/techico.png") no-repeat scroll 96% 4px #F1F1F1;
+  float: right;
+  padding: 0 20px 0 4px;
+}
+.post-timestamp {
+  background: url("https://lh6.googleusercontent.com/-SSZLBwEMVew/U0bgZ_fsl6I/AAAAAAAADvA/Rup-KDIyLyw/s184/techico.png") no-repeat scroll 96% -51px #E3E2E2;
+  padding: 0 22px 0 0;
+}
+.more-l {
+  background:#D40147;
+  color: #fff;
+  display: inline-block;
+  padding: 0 5px;
+}
+/*------ www.it9an.com -----*/
+#colorit9an {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #FFA221;
+    left: 0;
+    overflow: hidden;
+    padding: 8px 0 0 4px;
+    position: fixed;
+    top: 209px;
+    width: 35px;
+    z-index: 99;
+}
+ol,#colorit9an ul {
+    list-style: none outside none;
+	padding:0;
+	margin:0;
+}
+#colorit9an #it9ancolor li {
+    float: left;
+}
+#colorit9an #it9ancolor li a {
+    display: block;
+    height: 25px;
+    margin: 0 8px 8px 0;
+    width: 25px;
+}
+#colorit9an #it9ancolor li a.default {
+    background-color: #FFA221;
+}
+#colorit9an #it9ancolor li a.blue {
+    background-color: #01ADDB;
+}
+#colorit9an #it9ancolor li a.red {
+    background-color: #F32B46;
+}
+#colorit9an #it9ancolor li a.green {
+    background-color: #11C65A;
+}
+#colorit9an #it9ancolor li a.pink {
+    background-color: #FF0066;
+}
+/*------ www.it9an.com -----*/
+/*******Footer*******/
+#footer-wrapper {
+  background:#000;
+  border-top: 4px solid #01ADDB;
+  padding: 5px;
+  color:#ddd;
+}
+.fow1, .fow2, .fow3 {
+  float: right;
+  margin: 0 10px 10px 10px;
+  width: 300px;
+}
+#footer-wrapper h2 {
+  border-bottom: 1px dashed #777;
+  color: #bbb;
+  font: bold 16px droid arabic kufi;
+  margin: 0 0 5px;
+  padding-bottom: 3px;
+}
+.LinkList li {
+  color: #bbb;
+  float: right;
+  list-style: square outside none;
+  margin-bottom: 10px;
+  width: 50%;
+}
+.LinkList a {
+  color: #bbb;
+  display: inline-block;
+}
+.LinkList a:hover {color:#fff;}
+.label-size a {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  color: #ddd;
+  display: inline-block;
+  float: right;
+  font-size: 13px;
+  margin: 3px;
+  padding: 4px 12px;
+  transition: all 0.3s ease 0s;
+}
+.label-size a:hover {
+  background:#fff;
+  border: 1px solid #fff;
+  color: #000;
+  transform: rotate(-4deg);
+  -webkit-transform: rotate(-4deg);
+}
+.label-size-1 {
+  opacity: 1 !important;
+}
+#credit {
+  background:#5A5A5A;
+  color: #D5D4D4;
+  padding: 2px 5px 4px;
+}
+#credit a {color:#fff;}
+#credit a:hover {color:#D40147;}
+#cnmubc a,.cnmubca a {
+  background:#D40147;
+  border-radius: 8px;
+  box-shadow: 0 0 1px #222;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 0 5px;
+}
+#cnmubc a:hover,.cnmubca a:hover {background:#000; color:#fff;}
+/* -- number page navigation -- */
+.showpageArea {
+color:#fff;
+margin: 10px 5px 3px 5px;
+padding: 0px;
+float: right;
+display: inline;
+font-size:13px;
+}
+.showpageArea a {
+background: #01ADDB;
+padding: 4px 7px;
+margin: 0px 5px 0px 0px;
+text-decoration: none;
+color:#fff;
+display: inline;
+float: right;
+border-radius:4px;
+}
+.showpageNum {float:right; margin-bottom: 5px;}
+.showpageNum a {
+font-size:13px;
+font-weight: bold;
+background: #01ADDB;
+padding: 4px 7px;
+margin: 0px 5px 0px 0px;
+text-decoration: none;
+color:#fff;
+display: inline;
+float: right;
+border-radius:4px;
+}
+.showpageNum a:hover {
+background: #DAD8D9;
+text-decoration: none;
+border-radius:4px;
+color:#777;
+}
+.showpagePoint {
+font-size:13px;
+font-weight: bold;
+background: #4A4A4A;
+padding: 4px 7px;
+margin: 0px 5px 0px 0px;
+text-decoration: none;
+color: #FFFFFF;
+display: inline;
+float: right;
+border-radius:4px;
+}
+.showpageOf {
+font-weight: bold;
+background: #01ADDB;
+padding: 3px 7px;
+margin: 0px 5px 0px 0px;
+text-decoration: none;
+color:#fff;
+display: inline;
+float: right;
+border-radius:4px;
+}
+.showpage a {
+background: #01ADDB;
+padding: 4px 7px;
+margin: 0px 5px 0px 0px;
+text-decoration: none;
+color:#fff;
+display: inline;
+float: right;
+border-radius:4px
+}
+.showpage a:hover {
+background: #DAD8D9;
+text-decoration: none;
+border-radius:4px;
+color:#777;
+} 
