@@ -22,14 +22,14 @@
 
 @font-face {
     font-family: 'ge_dinar_oneregular';
-    src: url('http://dabourphone.eb2a.com/ge_dinar_one_medium/ge_dinar_one_medium-webfont.eot');
+    src: url('http://dabourphone.eb2a.com/ge_dinar_one_medium/GE_Dinar_One_Medium_Italic.eot');
     }
 
 @font-face {
     font-family: 'ge_dinar_oneregular';
     src: url(http://dabourphone.eb2a.com/ge_dinar_one_medium/GE_Dinar_One_Medium_Italic.woff) format('woff'),
-         url('http://dabourphone.eb2a.com/ge_dinar_one_medium/ge_dinar_one_medium-webfont.ttf') format('truetype'),
-         url('http://dabourphone.eb2a.com/ge_dinar_one_medium/ge_dinar_one_medium-webfont.svg') format('svg');
+         url('http://dabourphone.eb2a.com/ge_dinar_one_medium/GE_Dinar_One_Medium_Italic.ttf') format('truetype'),
+         url('http://dabourphone.eb2a.com/ge_dinar_one_medium/GE_Dinar_One_Medium_Italic.svg') format('svg');
     font-weight: normal;
     font-style: normal;
 
