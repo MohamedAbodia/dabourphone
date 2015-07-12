@@ -4,14 +4,14 @@
 
 @font-face {
     font-family: 'ge_dinar_tworegular';
-    src: url('http://dabourphone.eb2a.com/GE_Dinar_Two_Medium_Italic.eot');
+    src: url('ge_dinar_two_medium-webfont.eot');
     }
 
 @font-face {
     font-family: 'ge_dinar_tworegular';
     src: url(http://dabourphone.eb2a.com/GE_Dinar_Two_Medium_Italic.woff) format('woff'),
-         url('http://dabourphone.eb2a.com/GE_Dinar_Two_Medium_Italic.ttf') format('truetype'),
-         url('http://dabourphone.eb2a.com/GE_Dinar_Two_Medium_Italic.svg#ge_dinar_tworegular') format('svg');
+         url('ge_dinar_two_medium-webfont.ttf') format('truetype'),
+         url('ge_dinar_two_medium-webfont.svg#ge_dinar_tworegular') format('svg');
     font-weight: normal;
     font-style: normal;
 
