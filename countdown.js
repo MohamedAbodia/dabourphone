@@ -76,18 +76,18 @@ if (this.timesup==false){//if target date/time not yet met
 var displaystring=arguments[0]+" days "+arguments[1]+" hours "+arguments[2]+" minutes "+arguments[3]+" seconds left until March 23, 2009 18:25:00"
 }
 else{ //else if target date/time met
-var displaystring=""
+var displaystring="Future date is here!"
 }
 return displaystring
 }
 
 function formatresults2(){
 if (this.timesup==false){ //if target date/time not yet met
-var displaystring="<span class='lcdstyle'>"+arguments[0]+" <sup></sup> "+arguments[1]+" <sup>hours</sup> "+arguments[2]+" <sup></sup> "+arguments[3]+" <sup></sup></span>"
+var displaystring="<span class='lcdstyle'>"+arguments[0]+" <sup>days</sup> "+arguments[1]+" <sup>hours</sup> "+arguments[2]+" <sup>minutes</sup> "+arguments[3]+" <sup>seconds</sup></span> left until this Christmas"
 }
 else{ //else if target date/time met
 var displaystring="" //Don't display any text
-alert("Ramadan Is Now!") //Instead, perform a custom alert
+alert("Christmas is here!") //Instead, perform a custom alert
 }
 return displaystring
 }
